@@ -11,7 +11,7 @@
   <img align='center' alt='Javascript' title='Logo Javascript' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
   <img align='center' alt='Putty' title='Logo Putty' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg'/>
   <img align='center' alt='Docker' title='Logo Docker' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg'/>
-  <img align='right' alt='MeAsGif' title='MyGIF' src='https://i.pinimg.com/564x/4e/07/32/4e0732076823924371d4b1340d9dced1.jpg'/>
+  <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
 </div>
 
 <div><br>
