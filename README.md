@@ -1,4 +1,12 @@
-### print("Olá, mundo!"); name = "Gabriel Teixeira Machado"
+# print("Olá, mundo! 👋🏻")
+### name = "🌈Gabriel Teixeira Machado✨"
+
+<p>🎨 Estou trabalhando no meu Portfólio;</p>
+<p>👨🏻‍🏫 Estou estudando Análise e Desenvolvimento de Sistemas pela UNINTER;</p>
+<p>👨🏻‍💻 Estou aprendendo PHP;</p>
+<p>📈 Estou à procura de uma vaga de estágio/júnior para poder aplicar meus conhecimentos;</p>
+<p>👦🏻 Pronomes: Ele/Dele;</p>
+<p>❓ Duas mentiras, uma verdade: Eu... 1)ganhei na raspadinha|2)tirei foto com a Lana del Rey|3)tive um vídeo com um milhão de views no TikTok;</p>
 
 <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieutm&layout=compact&langs_count=16&theme=holi'/>
 
