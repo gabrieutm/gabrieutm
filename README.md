@@ -18,14 +18,14 @@
 
 ## 💻 Tecnologias e Ferramentas ⚙️
 <div style='display: inline-block'>
-  <img align='center' alt='SQL' title='Logo SQL' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/>
-  <img align='center' alt='Python' title='Logo Python' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
-  <img align='center' alt='HTML5' title='Logo HTML5' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'/>
-  <img align='center' alt='CSS3' title='Logo CSS3' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
-  <img align='center' alt='PHP' title='Logo PHP' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'/>
-  <img align='center' alt='Javascript' title='Logo Javascript' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
-  <img align='center' alt='Putty' title='Logo Putty' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg'/>
-  <img align='center' alt='Docker' title='Logo Docker' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg'/>
+  <img align='center' alt='SQL' title='Logo SQL' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/>
+  <img align='center' alt='Python' title='Logo Python' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
+  <img align='center' alt='HTML5' title='Logo HTML5' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'/>
+  <img align='center' alt='CSS3' title='Logo CSS3' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
+  <img align='center' alt='PHP' title='Logo PHP' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'/>
+  <img align='center' alt='Javascript' title='Logo Javascript' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
+  <img align='center' alt='Putty' title='Logo Putty' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg'/>
+  <img align='center' alt='Docker' title='Logo Docker' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg'/>
 </div><br>
 
 ## 🌡️ Stats 🌡️
