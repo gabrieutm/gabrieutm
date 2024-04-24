@@ -1,5 +1,8 @@
+<img src='https://r2.easyimg.io/s8c1f56w0/se_encontrar_uma_necessidade,_encontre_uma_solução_(2).png'>
+
 # print("Olá, mundo! 👋🏻")
 ### name = "🌈Gabriel Teixeira Machado✨"
+
 <div>
   <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
 </div>
