@@ -16,7 +16,7 @@
   2)tirei foto com a Lana del Rey<br>
   3)tive um vídeo com um milhão de views no TikTok;</p>
 
-## Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas ⚙️
 <div style='display: inline-block'>
   <img align='center' alt='SQL' title='Logo SQL' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/>
   <img align='center' alt='Python' title='Logo Python' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
@@ -28,10 +28,10 @@
   <img align='center' alt='Docker' title='Logo Docker' height=30 width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg'/>
 </div><br>
 
-## Stats
+## 🌡️ Stats 🌡️
 <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieutm&layout=compact&langs_count=16&theme=holi'/><br>
 
-## Contato
+## 📣 Contato 📬
 <div>
   <a href = "mailto:gtmachado08@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.ly/Zp1yq" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
