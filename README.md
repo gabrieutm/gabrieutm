@@ -10,10 +10,10 @@
 <p>👨🏻‍🏫 Estou estudando Análise e Desenvolvimento de Sistemas pela UNINTER;</p>
 <p>👨🏻‍💻 Estou aprendendo PHP;</p>
 <p>📈 Estou à procura de uma vaga de estágio/júnior para poder aplicar meus conhecimentos;</p>
-<p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, pesquisar sobre o universo e as estrelas, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar...</p>
-<p>❓ Duas mentiras, uma verdade: Eu...
-  1)ganhei na raspadinha
-  2)tirei foto com a Lana del Rey
+<p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, pesquisar sobre o universo e as estrelas, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
+<p>❓ Duas mentiras, uma verdade: Eu...<br>
+  1)ganhei na raspadinha<br>
+  2)tirei foto com a Lana del Rey<br>
   3)tive um vídeo com um milhão de views no TikTok;</p>
 
 ## Tecnologias e Ferramentas
