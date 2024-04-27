@@ -1,5 +1,3 @@
-<img src='https://r2.easyimg.io/s8c1f56w0/se_encontrar_uma_necessidade,_encontre_uma_solução_(2).png'>
-
 # 👋🏻 print("Olá, mundo!") 👋🏻
 ### name = "🌈Gabriel Teixeira Machado✨"
 
