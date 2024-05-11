@@ -6,7 +6,7 @@
 </div>
 <p>🎨 Estou trabalhando no meu Portfólio;</p>
 <p>📚 Estou estudando Análise e Desenvolvimento de Sistemas pela UNINTER;</p>
-<p>👨🏻‍💻 Estou aprendendo PHP;</p>
+<p>👨🏻‍💻 Estou aprendendo JAVA;</p>
 <p>📈 Estou à procura de uma vaga de estágio/júnior para poder aplicar meus conhecimentos;</p>
 <p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, pesquisar sobre o universo e as estrelas, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
 <p>❓ Duas mentiras, uma verdade: Eu...<br>
