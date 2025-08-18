@@ -5,10 +5,10 @@
   <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
 </div>
 <p>🎨 Estou trabalhando no meu Portfólio;</p>
-<p>📚 Estou estudando Análise e Desenvolvimento de Sistemas pela UNINTER;</p>
-<p>👨🏻‍💻 Estou aprendendo JAVA;</p>
-<p>📈 Estou à procura de uma vaga de estágio/júnior para poder aplicar meus conhecimentos;</p>
-<p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, pesquisar sobre o universo e as estrelas, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
+<p>📚 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER;</p>
+<p>👨🏻‍💻 Estou aprimorando meu conhecimento em JAVA e Python;</p>
+<p>📈 Trabalho como QA Tester na IMPLY a mais de um ano;</p>
+<p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, vídeos sobre o cosmos, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
 <p>❓ Duas mentiras, uma verdade: Eu...<br>
   1)ganhei na raspadinha<br>
   2)tirei foto com a Lana del Rey<br>
