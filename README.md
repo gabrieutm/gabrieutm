@@ -7,7 +7,7 @@
 <p>🎨 Estou trabalhando no meu Portfólio;</p>
 <p>📚 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER;</p>
 <p>👨🏻‍💻 Estou aprimorando meu conhecimento em JAVA e Python;</p>
-<p>📈 Trabalho como QA Tester na IMPLY a mais de um ano;</p>
+<p>📈 Trabalho como QA Tester a mais de dois anos;</p>
 <p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, vídeos sobre o cosmos, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
 <p>❓ Duas mentiras, uma verdade: Eu...<br>
   1)ganhei na raspadinha<br>
