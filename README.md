@@ -20,11 +20,11 @@
 
 ## 🧪 Sobre meu trabalho
 
-QA Engineer com mais de 2 anos de experiência em ambientes ágeis — SaaS, ERP e E-commerce. Trabalho com automação E2E (Cypress), testes de API (Postman), análise de dados via SQL e testes em aplicações Web e Mobile (Android/iOS).
+QA Engineer com mais de 2 anos de experiência em ambientes ágeis - SaaS, ERP e E-commerce. Trabalho com automação E2E (Cypress), testes de API (Postman), análise de dados via SQL e testes em aplicações Web e Mobile (Android/iOS).
 
-Aplico abordagem **Shift-Left**: entro desde o levantamento de requisitos, estruturo cenários com BDD/Gherkin, defino critérios de aceitação e ajudo a criar processos que integram qualidade ao desenvolvimento de forma contínua — não só no final do ciclo.
+Aplico abordagem **Shift-Left**: entro desde o levantamento de requisitos, estruturo cenários com BDD/Gherkin, defino critérios de aceitação e ajudo a criar processos que integram qualidade ao desenvolvimento de forma contínua - não só no final do ciclo.
 
-> *"Se encontrar uma necessidade, descubra uma solução."* — O Grande Soldador, Robôs (2005)
+> *"Se encontrar uma necessidade, descubra uma solução."* - O Grande Soldador, Robôs (2005)
 
 ---
 
