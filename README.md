@@ -84,12 +84,6 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
 
 ---
 
-## 🌡️ Stats 🌡️
-
-<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieutm&layout=compact&langs_count=16&theme=holi'/><br>
-
----
-
 ## 📣 Contato 📬
 
 <div>
