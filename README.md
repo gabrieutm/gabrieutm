@@ -1,5 +1,5 @@
 # 👋🏻 print("Olá, mundo!") 👋🏻
-### name = "M. Gabriel"
+### name = "Gabriel M."
 
 <div>
   <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
