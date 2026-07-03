@@ -5,7 +5,7 @@
   <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
 </div>
 
-<p>QA Engineer focado em Automação, Shift-Left e Engenharia de Qualidade;</p>
+<ul>QA Engineer focado em Automação e Shift-Left;</ul>
 <p>Automatizando fluxos E2E com Cypress e validando APIs com Postman;</p>
 <p>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</p>
 <p>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</p>
