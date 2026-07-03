@@ -13,7 +13,7 @@
 <li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
 <li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
 <li>Duas mentiras, uma verdade: Eu...<br>
-  <small>abre o que</small>
+  <h6>Clica na opção que você acha que é verdade abaixo</h6>
   <ol type="1">
   <li>
     <details>
