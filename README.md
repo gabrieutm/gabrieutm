@@ -6,8 +6,8 @@
 </div>
 
 <ul>
-<li>QA Engineer com mais de <strong>3</strong> anos de experiência focado em Automação e Shift-Left;</li>
-<li>Automatizando fluxos E2E com Cypress e validando APIs com Postman;</li>
+<li>QA Engineer com <strong>mais de 3</strong> anos de experiência focado em <strong>Automação e Shift-Left</strong>;</li>
+<li>Automatizando fluxos <strog>E2E com Cypress</strog> e validando APIs com Postman;</li>
 <li>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</li>
 <li>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</li>
 <li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
