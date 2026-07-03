@@ -6,7 +6,7 @@
 </div>
 
 <ul>
-<li>QA Engineer com mais de 3 anos de experiência focado em Automação e Shift-Left;</li>
+<li>QA Engineer com mais de <mark style="background-color: blue;">3</mark> anos de experiência focado em Automação e Shift-Left;</li>
 <li>Automatizando fluxos E2E com Cypress e validando APIs com Postman;</li>
 <li>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</li>
 <li>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</li>
