@@ -37,7 +37,7 @@
 
 ---
 
-## 🧪 Sobre minha experiência
+## 👩🏻‍💻 Sobre minha experiência
 
 Engenheiro de QA com mais de 3 anos de experiência em testes manuais e automatizados em ambientes ágeis.
 
@@ -53,7 +53,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
 
 ## 💻 Tecnologias e Ferramentas ⚙️
 
-**🧪 Automação & Testes**
+**🔬 Automação & Testes**
 
 <div style='display: inline-block'>
   <img align='center' alt='Cypress' title='Cypress' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg'/>
