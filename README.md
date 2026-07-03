@@ -1,17 +1,17 @@
 # 👋🏻 print("Olá, mundo!") 👋🏻
-### name = "🌈Gabriel Teixeira Machado✨"
+### name = "M. Gabriel"
 
 <div>
   <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
 </div>
 
-<p>🔍 QA Engineer focado em Automação, Shift-Left e Engenharia de Qualidade;</p>
-<p>🤖 Automatizando fluxos E2E com Cypress e validando APIs com Postman;</p>
-<p>📱 Aprimorando minha especialização em testes Mobile (e automação deles, claro);</p>
-<p>🎯 Próximos passos: certificação CTFL, aprofundar em performance e segurança de sistemas;</p>
-<p>🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</p>
-<p>🏖️ Hobbies: pedalar, ficar com a família e pets, tocar piano, vídeos sobre o cosmos, escrever músicas e poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
-<p>❓ Duas mentiras, uma verdade: Eu...<br>
+<p>QA Engineer focado em Automação, Shift-Left e Engenharia de Qualidade;</p>
+<p>Automatizando fluxos E2E com Cypress e validando APIs com Postman;</p>
+<p>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</p>
+<p>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</p>
+<p>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</p>
+<p>Hobbies: pintar, pedalar, brincar com meus gatos, tocar piano, escrever poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
+<p>Duas mentiras, uma verdade: Eu...<br>
   1) ganhei na raspadinha<br>
   2) tirei foto com a Lana del Rey<br>
   3) tive um vídeo com um milhão de views no TikTok;</p>
@@ -20,9 +20,13 @@
 
 ## 🧪 Sobre meu trabalho
 
-QA Engineer com mais de 2 anos de experiência em ambientes ágeis - SaaS, ERP e E-commerce. Trabalho com automação E2E (Cypress), testes de API (Postman), análise de dados via SQL e testes em aplicações Web e Mobile (Android/iOS).
+Engenheiro de QA com mais de 3 anos de experiência em testes manuais e automatizados em ambientes ágeis.
 
-Aplico abordagem **Shift-Left**: entro desde o levantamento de requisitos, estruturo cenários com BDD/Gherkin, defino critérios de aceitação e ajudo a criar processos que integram qualidade ao desenvolvimento de forma contínua - não só no final do ciclo.
+Atuo com automação web utilizando Cypress, validação de APIs com Postman e análise de dados via SQL, além de testes para aplicações mobile. Possuo familiaridade com Git e fluxos de versionamento e deploy, mantendo proximidade com o ciclo completo de desenvolvimento.
+
+Aplico abordagem de shift-left participando desde a definição de requisitos e regras de negócio, estruturando cenários, planos de teste e critérios de aceitação com BDD/Gherkin.
+
+Contribuo para organização de processos, acompanhamento de métricas e comunicação de entregas, atuando de forma colaborativa para integrar qualidade ao desenvolvimento de maneira estruturada e orientada a resultados.
 
 > *"Se encontrar uma necessidade, descubra uma solução."* - O Grande Soldador, Robôs (2005)
 
