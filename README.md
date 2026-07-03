@@ -14,9 +14,9 @@
 <li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
 <li>Duas mentiras, uma verdade: Eu...<br>
   <ol type="1">
-  <li>ganhei na raspadinha</li>
-  <li>tirei foto com a Lana del Rey</li>
-  <li>tive um vídeo com um milhão de views no TikTok;</li id="essa é a certa">
+  <li class="assertion-false">ganhei na raspadinha</li>
+  <li class="assertion-false">tirei foto com a Lana del Rey</li>
+  <li class="assertion-true">tive um vídeo com um milhão de views no TikTok;</li>
   </ol></li>
 </ul>
 
