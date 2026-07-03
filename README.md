@@ -13,6 +13,7 @@
 <li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
 <li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
 <li>Duas mentiras, uma verdade: Eu...<br>
+  <legend>abre o que</legend>
   <ol type="1">
   <li>
     <details>
@@ -32,7 +33,6 @@
       <p><b>Acertou!!!</b> Construí a casa do filme "Up: Altas Aventuras" e postei o processo, foi hit no Brasil</p>
     </details>
   </li>
-  <li></li>
   </ol></li>
 </ul>
 
