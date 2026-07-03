@@ -16,9 +16,8 @@
   <ol type="1">
   <li>
     <details>
-      <summary>ganhei na raspadinha
-        <b>errou</b>
-      </summary>
+      <summary>ganhei na raspadinha</summary>
+      <p>❌ <b>Errou!</b> Nunca ganhei nem um centavo nisso.</p>
     </details>
   </li>
   <li>tirei foto com a Lana del Rey</li>
