@@ -12,8 +12,10 @@
 <li>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</li>
 <li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
 <li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
-<li>Duas mentiras, uma verdade: Eu... <br> <sub>Clica na opção que você acha que é verdade abaixo</sub> <br>
+<li>Duas mentiras, uma verdade: Eu... <br>
+  <sub>Clica na opção que você acha que é verdade abaixo</sub>
   <ol type="1">
+  <br>
   <li>
     <details>
       <summary>ganhei na raspadinha;</summary>
