@@ -13,7 +13,7 @@
 <li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
 <li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
 <li>Duas mentiras, uma verdade: Eu...<br>
-  <ol>
+  <ol type="1">
   <li>ganhei na raspadinha</li>
   <li>tirei foto com a Lana del Rey</li>
   <li>tive um vídeo com um milhão de views no TikTok;</li>
