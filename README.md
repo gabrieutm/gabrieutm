@@ -29,7 +29,7 @@
   <li>
     <details>
       <summary>tive um vídeo com um milhão de views no TikTok;</summary>
-      <p><b>Acertou!!!</b> Construí uma réplica de papelão da casa do filme "Up: Altas Aventuras", gravei o processo e postei, foi hit no Brasil</p>
+      <p><b>Acertou!!!</b> Criei uma mini-réplica da casa em "Up: Altas Aventuras", gravei o processo e postei, foi hit no Brasil</p>
     </details>
   </li>
   </ol></li>
