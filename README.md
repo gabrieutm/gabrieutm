@@ -16,12 +16,23 @@
   <ol type="1">
   <li>
     <details>
-      <summary>ganhei na raspadinha</summary>
-      <p>❌ <b>Errou!</b> Nunca ganhei nem um centavo nisso.</p>
+      <summary>ganhei na raspadinha;</summary>
+      <p><b>Errou!</b> Nunca ganhei nem um centavo nisso 💸</p>
     </details>
   </li>
-  <li>tirei foto com a Lana del Rey</li>
-  <li>tive um vídeo com um milhão de views no TikTok;</li>
+  <li>
+    <details>
+      <summary>tirei foto com a Lana del Rey;</summary>
+      <p><b>Errou!</b> Só se a diva fizesse show na minha cidade, o que é impossível 😭</p>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>tive um vídeo com um milhão de views no TikTok;</summary>
+      <p><b>Acertou!!!</b> Construí a casa do filme "Up: Altas Aventuras" e postei o processo, foi hit no Brasil</p>
+    </details>
+  </li>
+  <li></li>
   </ol></li>
 </ul>
 
