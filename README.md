@@ -5,16 +5,18 @@
   <img align='right' alt='MeAsGif' title='MyGIF' height='150' width='150' src='https://i.pinimg.com/564x/f7/8a/fe/f78afeab89016592850cfbb82c1d26ad.jpg'/>
 </div>
 
-<ul>QA Engineer focado em Automação e Shift-Left;</ul>
-<p>Automatizando fluxos E2E com Cypress e validando APIs com Postman;</p>
-<p>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</p>
-<p>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</p>
-<p>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</p>
-<p>Hobbies: pintar, pedalar, brincar com meus gatos, tocar piano, escrever poesias, jogos, filmes e animes, fazer pães caseiros, codar;</p>
-<p>Duas mentiras, uma verdade: Eu...<br>
+<ul>
+<li>QA Engineer focado em Automação e Shift-Left;</li>
+<li>Automatizando fluxos E2E com Cypress e validando APIs com Postman;</li>
+<li>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</li>
+<li>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</li>
+<li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
+<li>Hobbies: pintar, pedalar, brincar com meus gatos, tocar piano, escrever poesias, jogos, filmes e animes, fazer pães caseiros, codar;</li>
+<li>Duas mentiras, uma verdade: Eu...<br>
   1) ganhei na raspadinha<br>
   2) tirei foto com a Lana del Rey<br>
-  3) tive um vídeo com um milhão de views no TikTok;</p>
+  3) tive um vídeo com um milhão de views no TikTok;</li>
+</ul>
 
 ---
 
