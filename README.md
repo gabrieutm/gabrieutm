@@ -11,7 +11,7 @@
 <li>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</li>
 <li>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</li>
 <li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
-<li>Hobbies: pintar, pedalar, brincar com meus gatos, tocar piano, escrever poesias, jogos, filmes e animes, fazer pães caseiros, codar;</li>
+<li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
 <li>Duas mentiras, uma verdade: Eu...<br>
   1) ganhei na raspadinha<br>
   2) tirei foto com a Lana del Rey<br>
