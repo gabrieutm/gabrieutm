@@ -16,7 +16,7 @@
   <ol type="1">
   <li>ganhei na raspadinha</li>
   <li>tirei foto com a Lana del Rey</li>
-  <li>tive um vídeo com um milhão de views no TikTok;</li>
+  <li>tive um vídeo com um milhão de views no TikTok;</li style="essa é a certa">
   </ol></li>
 </ul>
 
