@@ -36,9 +36,9 @@
   </li>
   </ol></li>
 </ul>
-<br>
 
 ---
+<br>
 
 ## 👩🏻‍💻 Sobre minha experiência
 
