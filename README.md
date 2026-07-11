@@ -53,6 +53,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
 
 ---
 
+
 ## 💻 Tecnologias e Ferramentas ⚙️
 
 **🔬 Automação & Testes**
