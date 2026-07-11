@@ -36,10 +36,10 @@
   </li>
   </ol></li>
 </ul>
+<br>
 
 ---
 
-<br>
 ## 👩🏻‍💻 Sobre minha experiência
 
 Engenheiro de QA com mais de 3 anos de experiência em testes manuais e automatizados em ambientes ágeis.
