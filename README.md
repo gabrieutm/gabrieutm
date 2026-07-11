@@ -53,9 +53,9 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
 
 <br>
 
-## 💻 Tecnologias e Ferramentas ⚙️
+## ⚙️ Tecnologias e Ferramentas
 
-**🔬 Automação & Testes**
+**Automação & Testes 🔬**
 
 <div style='display: inline-block'>
   <img align='center' alt='Cypress' title='Cypress' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg'/>
@@ -65,7 +65,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
   <img align='center' alt='Maestro' title='Maestro Studio' height=28 src='https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNFY4bDYgNHoiLz48L3N2Zz4=&logoColor=white'/>
 </div><br>
 
-**💻 Linguagens**
+**Linguagens 💻**
 
 <div style='display: inline-block'>
   <img align='center' alt='JavaScript' title='JavaScript' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
@@ -75,7 +75,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
   <img align='center' alt='CSS3' title='CSS3' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
 </div><br>
 
-**🗄️ Dados & Banco**
+**Dados & Banco 🗄️**
 
 <div style='display: inline-block'>
   <img align='center' alt='PostgreSQL' title='PostgreSQL' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/>
@@ -83,7 +83,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
   <img align='center' alt='DBeaver' title='DBeaver' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg'/>
 </div><br>
 
-**🔧 Infra & DevOps**
+**Infra & DevOps 🔧**
 
 <div style='display: inline-block'>
   <img align='center' alt='Git' title='Git' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'/>
@@ -93,7 +93,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
   <img align='center' alt='PuTTY' title='PuTTY' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg'/>
 </div><br>
 
-**🎨 Frontend & Outros**
+**Frontend & Outros 🎨**
 
 <div style='display: inline-block'>
   <img align='center' alt='Vue' title='Vue' height=50 width=60 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg'/>
@@ -105,7 +105,7 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
 
 ---
 
-## 📣 Contato 📬
+## 📬 Contato
 
 <div>
   <a href="mailto:gtmachado08@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
