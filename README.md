@@ -6,14 +6,14 @@
 </div>
 
 <ul>
-<li>QA Engineer com <strong>mais de 3</strong> anos de experiência focado em <strong>Automação e Shift-Left</strong>;</li>
-<li>Automatizando fluxos <strong>E2E com Cypress</strong> e validando APIs com Postman;</li>
-<li>Aprimorando minha especialização em desenvolvimento de aplicações Mobile e testes automatizados;</li>
-<li>Próximos passos: certificação CTFL, aprofundar conhecimento em performance e segurança de sistemas;</li>
-<li>Formado em Análise e Desenvolvimento de Sistemas pela UNINTER (2026);</li>
-<li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros e gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
+<li>QA Engineer com <b>mais de 3</b> anos de experiência focado em <strong>Automação e Shift-Left</strong>;</li>
+<li>Automatizando fluxos <b>E2E com Cypress</b> e validando APIs com Postman;</li>
+<li>Aprimorando minha especialização em desenvolvimento de aplicações <b>Mobile</b> e <b>testes automatizados</b>;</li>
+<li>Próximos passos: certificação <b>CTFL</b>, aprofundar conhecimento em <b>performance e segurança de sistemas</b>;</li>
+<li>Formado em <b>Análise e Desenvolvimento de Sistemas</b> pela <b>UNINTER (2026)</b>;</li>
+<li>Hobbies: pintar, pedalar, brincar com meus gatos, escrever poesias, fazer pães caseiros. Também gosto de jogos de aventura, filmes de terror e animes de fantasia;</li>
 <li>Duas mentiras, uma verdade: Eu... <br>
-  <sub>Clica na opção que você acha que é verdade</sub>
+  <sub><u>Clica na opção que você acha que é <i>verdade<i> hehe</u></sub>
   <ol type="1">
   <br>
   <li>
