@@ -37,7 +37,6 @@
   </ol></li>
 </ul>
 
----
 <br>
 
 ## 👩🏻‍💻 Sobre minha experiência
@@ -52,9 +51,8 @@ Contribuo para organização de processos, acompanhamento de métricas e comunic
 
 > *"Se encontrar uma necessidade, descubra uma solução."* - O Grande Soldador, Robôs (2005)
 
----
-
 <br>
+
 ## 💻 Tecnologias e Ferramentas ⚙️
 
 **🔬 Automação & Testes**
